@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IG_WebAPI", "IG_WebAPI\IG_WebAPI.csproj", "{885257E7-9B34-4D64-A5C7-32BDE1A543A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IG_WebAPI.Tests", "IG_WebAPI.Tests\IG_WebAPI.Tests.csproj", "{7B339838-FD4F-4E6F-AFF1-FEF342047D78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{885257E7-9B34-4D64-A5C7-32BDE1A543A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{885257E7-9B34-4D64-A5C7-32BDE1A543A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{885257E7-9B34-4D64-A5C7-32BDE1A543A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{885257E7-9B34-4D64-A5C7-32BDE1A543A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B339838-FD4F-4E6F-AFF1-FEF342047D78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B339838-FD4F-4E6F-AFF1-FEF342047D78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B339838-FD4F-4E6F-AFF1-FEF342047D78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B339838-FD4F-4E6F-AFF1-FEF342047D78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
